@@ -9,3 +9,4 @@ pokemones
  console.log(data.name);
  //linea de conflicto2
  }).catch(error => console.log(error))
+ //linea de conflicto3
